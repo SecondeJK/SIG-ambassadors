@@ -7,7 +7,7 @@ Author: James Seconde, Senior Developer Advocate @ Vonage
 
 The subgroup for speakers is responsible for the following areas:
 
-* Maintaining the offical group of The PHP Foundation Approved Speakers (PAP).
+* Maintaining the offical group of The PHP Foundation Approved Speakers (PAS).
 * Maintaining an offical repository (propose that this is kept within this folder structure) for PHP Foundation Approved Decks.
 * The Committee List for CfP submission approvals.
 * Maintaining a list of target Worldwide Conferences, broken into regions with extra relevant context (attendence, etc.)
