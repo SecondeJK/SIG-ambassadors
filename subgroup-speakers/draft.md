@@ -1,0 +1,64 @@
+# PHP Special Interest Group: External Outreach (Speakers)
+
+This is a *draft proposal* for review.
+Author: James Seconde, Senior Developer Advocate @ Vonage
+
+## Speakers
+
+The subgroup for speakers is responsible for the following areas:
+
+* Maintaining the offical group of The PHP Foundation Approved Speakers (PAP).
+* Maintaining an offical repository (propose that this is kept within this folder structure) for PHP Foundation Approved Decks.
+* The Committee List for CfP submission approvals.
+* Maintaining a list of target Worldwide Conferences, broken into regions with extra relevant context (attendence, etc.)
+* The Volunteer List for CfP help.
+* The Volunteer List for Speaker mentorship.
+* Maintainece of Impact for the SIG Marketing and Research subgroups.
+
+Breaking down the External Outreach Speakers Group Responsibilities
+
+### The PHP Foundation Approved Speakers
+
+An official list to be maintained and updated by the Outreach Speakers' Group Committee of PHP Foundation Approved Speakers (PAS).
+
+PAS individuals are chosen subject to approval from the Committee List. PAS individuals, once approved, can then both use The PHP Foundation branding on their decks, and when speaking, represent The PHP Foundation on stage and off it (this includes before and after conferences or meetups). All PAS individuals behaviour at events is subject to the PHP Foundation's Code of Conduct (CoC).
+
+To apply to be a PAS Speaker, the Committee must review:
+
+* The applicant's familiarity with The PHP Foundation's CoC
+* Subject matters to be avoided (to be offically drafted, but will likely include delicate geopolitical matters, attitude towards other languages and and communities/ecosystems and not using negative language towards other PHP Projects).
+* Corporate Involvement or Sponsorship, and making sure boundries are not crossed (negative connotations towards a competitor, or direct marketing for your employer for instance).
+
+An offical application process must be chosen, such as a form submission or in the discussions pages on this repository for transparency.
+
+### PHP Foundation Approved Decks (Internal)
+
+A folder of general decks that will contain speaker notes that can be given at any time in this repository. These will not be bespoke to a particular Conference or audience, but simple decks that can be given by any experience level of speaker.
+
+Approved decks will contain PHP Foundation brand assets that should be located in the Marketing SIG Subgroup.
+
+### PHP Foundation Approved Decks (Per Speaker)
+
+For bespoke talks that that a PAS speaker wants to brand their own, the deck must be subject to approval of the Outreach Committee. This approval will consist of the same subject matters as the PAS Speaker application process listed earlier.
+
+Offical PHP Foundation brand assets should be available in the Marketing SIG Subgroup for the speaker to use.
+
+### Speaker Resource List
+
+This will be a maintained list of target conferences that the Outreach Speakers' Group would ideally like PAS individuals at, that can be updated and maintained by the Committee.
+
+### Volunteer List for Call for Papers (CfP) Help
+
+Any level of speaker will be able to contact the listed volunteers for thoughts and guidance on CfP submissions. As with everything, this involves opinions, and so are subject to The PHP Foundation Code of Conduct. The offical channel for asking this should be on the offical Discord.
+
+### Volunteer List for Speaker Membership
+
+Any level of speaker will be able to contact the listed volunteers for mentorship on delivering _a specific talk_ that has been approved. As with everything, this involves opinions, and so are subject to The PHP Foundation Code of Conduct. The offical channel for asking this should be on the offical Discord.
+
+### Impact Metrics for other SIG Subgroups
+
+Any talk that is given needs a report to measure impact analysis and feedback. The public-facing impact metrics should be kept to statistics (rough number of attendees, interactions after a talk, volume of questions).
+
+## Other Considerations
+
+Meetup and Conference experience for PAS Individuals needs to be kept privately. Whilst this SIG Subgroup needs to be as transparent as possible to the world, conference and meetups experiences could potentially have aspects that need to be recorded for the commiteee privately due to sensitive data.
