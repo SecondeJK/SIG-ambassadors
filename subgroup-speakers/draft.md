@@ -69,7 +69,7 @@ As with everything, this involves opinions, and so are subject to The PHP Founda
 
 ### Volunteer List for Speaker Mentorship
 
-A list of volunteers matained in this repository who wish to bne added.
+A list of volunteers maintained in this repository who wish to be added.
 
 Any level of speaker that is a PAS individual will be able to contact the listed volunteers for mentorship on delivering _a specific talk_ that has been approved. As with everything, this involves opinions, and so are subject to The PHP Foundation Code of Conduct. The offical channel for asking this should be on the offical Discord.
 
