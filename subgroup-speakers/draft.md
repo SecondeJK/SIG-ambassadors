@@ -71,7 +71,7 @@ As with everything, this involves opinions, and so are subject to The PHP Founda
 
 A list of volunteers maintained in this repository who wish to be added.
 
-Any level of speaker that is a PAS individual will be able to contact the listed volunteers for mentorship on delivering _a specific talk_ that has been approved. As with everything, this involves opinions, and so are subject to The PHP Foundation Code of Conduct. The offical channel for asking this should be on the offical Discord.
+Any level of speaker that is a PAS individual will be able to contact the listed volunteers for mentorship on delivering _a specific talk_ that has been approved. As with everything, this involves opinions, and so are subject to The PHP Foundation Code of Conduct. The official channel for asking this should be on the official Discord.
 
 ### Impact Metrics for other SIG Subgroups
 
