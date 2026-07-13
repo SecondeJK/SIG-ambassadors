@@ -13,7 +13,7 @@ The subgroup for speakers is responsible for the following areas:
 * Maintaining a list of target Worldwide Conferences, broken into regions with extra relevant context (attendence, etc.)
 * The Volunteer List for CfP help.
 * The Volunteer List for Speaker mentorship.
-* Maintainece of Impact for the SIG Marketing and Research subgroups.
+* Maintenance of Impact for the SIG Marketing and Research subgroups.
 
 Breaking down the External Outreach Speakers Group Responsibilities
 
@@ -29,11 +29,13 @@ To be a PAS, the individual gets the following:
 
 PAS individuals are chosen subject to approval from the Committee List. PAS individuals, once approved, can then both use The PHP Foundation branding on their decks, and when speaking, represent The PHP Foundation on stage and off it (this includes before and after conferences or meetups). All PAS individuals behaviour at events is subject to the PHP Foundation's Code of Conduct (CoC).
 
+Being a PAS Individual is an unfunded community position. There are currently no plans for Travel and Expenses (T&E) reimbursal at this time.
+
 To apply to be a PAS Speaker, the Committee must review:
 
 * The applicant's familiarity with The PHP Foundation's CoC
 * Subject matters to be avoided (to be offically drafted, but will likely include delicate geopolitical matters, attitude towards other languages and and communities/ecosystems and not using negative language towards other PHP Projects).
-* Corporate Involvement or Sponsorship, and making sure boundries are not crossed (negative connotations towards a competitor, or direct marketing for your employer for instance).
+* Corporate Involvement or Sponsorship, and making sure boundaries are not crossed (negative connotations towards a competitor, or direct marketing for your employer for instance).
 
 An offical application process must be chosen, such as a form submission or in the discussions pages on this repository for transparency.
 
@@ -63,7 +65,7 @@ A list of volunteers maintained in this repository who wish to be added.
 
 Any level of speaker that is an existing PAS individual will be able to contact the listed volunteers for thoughts and guidance on CfP submissions.
 
-As with everything, this involves opinions, and so are subject to The PHP Foundation Code of Conduct. The offical channel for asking this should be on the offical Discord.
+As with everything, this involves opinions, and so are subject to The PHP Foundation Code of Conduct. The offical channel for asking this should be on the official Discord.
 
 ### Volunteer List for Speaker Mentorship
 
