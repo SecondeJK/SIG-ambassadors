@@ -47,7 +47,7 @@ Approved decks will contain PHP Foundation brand assets that should be located i
 
 ### PHP Foundation Approved Decks (Per Speaker)
 
-For bespoke talks that that a PAS speaker wants to brand their own, the deck must be subject to approval of the Outreach Committee. This approval will consist of the same subject matters as the PAS Speaker application process listed earlier.
+For bespoke talks that a PAS speaker wants to brand their own, the deck must be subject to approval of the Outreach Committee. This approval will consist of the same subject matters as the PAS Speaker application process listed earlier.
 
 Any approved talks should use PHP Foundation branding. 
 
