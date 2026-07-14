@@ -17,7 +17,7 @@ The subgroup for speakers is responsible for the following areas:
 
 Breaking down the External Outreach Speakers Group Responsibilities
 
-### The PHP Foundation Approved Speakers
+## The PHP Foundation Approved Speakers
 
 An official list to be maintained and updated by the Outreach Speakers' Group Committee of PHP Foundation Approved Speakers (PAS).
 
@@ -39,13 +39,25 @@ To apply to be a PAS Speaker, the Committee must review:
 
 An offical application process must be chosen, such as a form submission or in the discussions pages on this repository for transparency.
 
-### PHP Foundation Approved Decks (Internal)
+## PAS Individual Expectations
+
+The Foundation sets goals for its Outreach, so PAS Indivuduals will need to fill out an Event Report (TBD) reporting on impact metrics and experience.
+
+### Impact Metrics for other SIG Subgroups
+
+Any talk that is given needs a report to measure impact analysis and feedback. The public-facing impact metrics should be kept to statistics (rough number of attendees, interactions after a talk, volume of questions). This can then be included in PHP Foundation end-of-year reports across its various activities.
+
+### The PHP Foundation Code of Conduct
+
+PAS Individuals are representing The PHP Foundation, and therefore de-facto, the PHP language itself. There is a duty of care for the language and its repuation that PAS indivuduals rigidly stick to the CoC.
+
+## PHP Foundation Approved Decks (Internal)
 
 A folder of general decks that will contain speaker notes that can be given at any time in this repository. These will not be bespoke to a particular Conference or audience, but simple decks that can be given by any experience level of speaker.
 
 Approved decks will contain PHP Foundation brand assets that should be located in the Marketing SIG Subgroup.
 
-### PHP Foundation Approved Decks (Per Speaker)
+## PHP Foundation Approved Decks (Per Speaker)
 
 For bespoke talks that a PAS speaker wants to brand their own, the deck must be subject to approval of the Outreach Committee. This approval will consist of the same subject matters as the PAS Speaker application process listed earlier.
 
@@ -55,11 +67,11 @@ Offical PHP Foundation brand assets should be available in the Marketing SIG Sub
 
 A list of approved talks that have been given will be maintained for tracking and available with links (if there is a recording) for the SIG Marketing subgroup to use.
 
-### Speaker Resource List
+## Speaker Resource List
 
 This will be a maintained list of target conferences that the Outreach Speakers' Group would ideally like PAS individuals at, that can be updated and maintained by the Committee. It will also be open to submissions from PAS speakers who would like to contribute to their own Outrech aims.
 
-### Volunteer List for Call for Papers (CfP) Help
+## Volunteer List for Call for Papers (CfP) Help
 
 A list of volunteers maintained in this repository who wish to be added.
 
@@ -67,15 +79,11 @@ Any level of speaker that is an existing PAS individual will be able to contact 
 
 As with everything, this involves opinions, and so are subject to The PHP Foundation Code of Conduct. The offical channel for asking this should be on the official Discord.
 
-### Volunteer List for Speaker Mentorship
+## Volunteer List for Speaker Mentorship
 
 A list of volunteers maintained in this repository who wish to be added.
 
 Any level of speaker that is a PAS individual will be able to contact the listed volunteers for mentorship on delivering _a specific talk_ that has been approved. As with everything, this involves opinions, and so are subject to The PHP Foundation Code of Conduct. The official channel for asking this should be on the official Discord.
-
-### Impact Metrics for other SIG Subgroups
-
-Any talk that is given needs a report to measure impact analysis and feedback. The public-facing impact metrics should be kept to statistics (rough number of attendees, interactions after a talk, volume of questions).
 
 ## Other Considerations
 
