@@ -79,4 +79,11 @@ Any talk that is given needs a report to measure impact analysis and feedback. T
 
 ## Other Considerations
 
-Meetup and Conference experience for PAS Individuals needs to be kept privately. Whilst this SIG Subgroup needs to be as transparent as possible to the world, conference and meetups experiences could potentially have aspects that need to be recorded for the commiteee privately due to sensitive data.
+Meetup and Conference experience for PAS Individuals needs to be kept privately. Whilst this SIG Subgroup needs to be as transparent as possible to the world, conference and meetups experiences could potentially have aspects that need to be recorded for the commiteee privately due to sensitive data. These will include:
+
+* Conference organizers breaking their own CoC.
+* Conference organizers not aligning with The PHP Foundation's CoC.
+* Conference speakers breaking a CoC violation without appropriate remedy.
+* Meetup organizers breaking their own CoC.
+* Meetup organizers not aligning with The PHP Foundation's CoC.
+* Meetup speakers breaking a CoC violation without appropriate remedy.
